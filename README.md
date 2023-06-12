@@ -1,7 +1,7 @@
 # vbaEmbFuncoesComuns
 VBA application directed to specific situation/client, not useful for general public - Funções comuns a todos os Sísifos de cadastro
 
-The big application aplication is divided into 4 main responsibilities (this repository is the 4th topic):
+The whole application is divided into 4 main responsibilities (this repository is the 4th topic):
 1. Data gathering (modules starting with "sfColDad"): user inputs and gathering/scrapping on lawcourts and client's inner systems.
 2. Business rules and logic (modules starting with "sfRegNeg"): from/to dictionaries from lawcourt and client's inner systems,
    infer, create and fill data, when suitable (for instance, data flow new actions, among others).
